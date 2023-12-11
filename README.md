@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I work at [Big Data Architecture Department of Bilibili, Real-time Computing Team]([Bilibili Investor Home](https://ir.bilibili.com/)) as a Software Development Engineer now in Shanghai, working for cloud computing, real-time computing, unified streaming and batch processing, and storage-compute separation.
+I work at [Big Data Architecture Department of Bilibili, Real-time Computing Team](https://ir.bilibili.com/) as a Software Development Engineer now in Shanghai, working for cloud computing, real-time computing, unified streaming and batch processing, and storage-compute separation.
 
 I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [alexhu1999@outlook.com](alexhu1999@outlook.com).
 
