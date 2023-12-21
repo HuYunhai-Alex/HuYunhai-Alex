@@ -41,4 +41,5 @@ Computer Network, Principles of Computer Composition, Artificial Intelligence, D
 
 -   Member of Apache Flink Forward Asia 
 -   Member of Alibaba Cloud Developer 
--   Member of Shandong University Computer Science Society 
+-   Member of Shandong University Computer Science Society
+-   Contracted photographer of Visual China
