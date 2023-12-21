@@ -6,19 +6,23 @@ I am now working on TTS, music generation, speech translation and audio-driven t
 
 I graduated from [School of Mathematics](https://www.math.sdu.edu.cn/), Shandong University (山东大学数学学院) with a bachelor's degree and from the Department of Mathematics, Shandong University (山东大学数学学院) with a master's degree, advised by [Yuming Xv (许玉铭)](https://www.math.sdu.edu.cn/info/1084/3603.htm). I also collaborate with Yun Jiang (蒋云), Ye Qie (邱耶) and Mengqiao Sun(孙梦桥) from Zhejiang Peking University Advanced Institute of Information Technology [浙江省北大信息技术高等研究院](https://www.aiit.org.cn/) closely. 
 
+### 🔥 Academic Work in Progress
+
+I am currently researching the integration of real-time and batch processing, Serverless Computing, as well as cloud-native computing construction at the Big Data Architecture Department of Bilibili Inc. in Shanghai, China. My work involves optimizing computing engines and algorithms to achieve efficient resource consumption in large-scale computing clusters. My recent focus is on optimizing Flink's capabilities of real-time and batch processing and designing an intelligent cross-architecture batch task migration management system.
+
 ### 📎 Homepages
 
-- Personal Pages: https://huyunhai-alex.github.io/ (updated recently🔥)
+-   Personal Pages: https://huyunhai-alex.github.io/ (updated recently🔥)
 
-### 💻  Additional Related Traing Programs
+### 💻 Relevant Courses: 
+
+Computer Network, Principles of Computer Composition, Artificial Intelligence, Data Structures, C++ Programming, Operating Systems, Discrete Mathematics, Database Systems, Software Engineering, etc.
+
+### 💻 Additional Related Traing Programs
 
 1.  Python Language Programming, by Song Tian, Beijing Institute of Technology, July 2019
 2.  Hands-on PaddlePaddle & OpenVINO AI Model: Data Center to Edge Course, Intel AI Lab, July 3, 2019
 3.  Acquisition and Processing of Three-Dimensional Geometry, Shandong University, August 2019
-
-### 🔥 Academic Work in Progress
-
-I am currently researching the integration of real-time and batch processing, Serverless Computing, as well as cloud-native computing construction at the Big Data Architecture Department of Bilibili Inc. in Shanghai, China. My work involves optimizing computing engines and algorithms to achieve efficient resource consumption in large-scale computing clusters. My recent focus is on optimizing Flink's capabilities of real-time and batch processing and designing an intelligent cross-architecture batch task migration management system.
 
 ### 📚 Published Works
 
