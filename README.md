@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently a **Master’s student in Computer Science** at **NYU Courant** (Spring 2025), focusing on **Natural Language Processing (NLP)**, with particular interest in **controllable decoding** and **inference acceleration** for large language models (LLMs). I am actively collaborating with **Yinlun Zhao**, a Yale PhD, and **Saiqian Zhang**, an Assistant Professor at NYU, on research projects in these areas.
+I am currently a **Master’s student in Computer Science** at **NYU Courant** (Spring 2025), focusing on **Natural Language Processing (NLP)**, with particular interest in **controllable decoding** and **inference acceleration** for large language models (LLMs).
 
 Previously, I worked as a **Software Development Engineer** at the [Big Data Architecture Department of Bilibili, Real-time Computing Team](https://ir.bilibili.com/) in Shanghai. My work focused on **cloud computing**, **real-time computing**, **unified streaming and batch processing**, and **storage-compute separation**.
 
