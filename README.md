@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-I work at [Big Data Architecture Department of Bilibili, Real-time Computing Team](https://ir.bilibili.com/) as a Software Development Engineer now in Shanghai, working for cloud computing, real-time computing, unified streaming and batch processing, and storage-compute separation.
+I am currently a **Master’s student in Computer Science** at **NYU Courant** (Spring 2025), focusing on **Natural Language Processing (NLP)**, with particular interest in **controllable decoding** and **inference acceleration** for large language models (LLMs). I am actively collaborating with **Yinlun Zhao**, a Yale PhD, and **Saiqian Zhang**, an Assistant Professor at NYU, on research projects in these areas.
 
-I graduated from [School of Mathematics](https://www.math.sdu.edu.cn/), Shandong University (山东大学数学学院) with a bachelor's degree advised by [Yuming Xv (许玉铭)](https://www.math.sdu.edu.cn/info/1084/3603.htm). I also collaborate with Yun Jiang (蒋云), Ye Qie (邱耶), and Mengqiao Sun(孙梦桥) from  [Zhejiang Peking University Advanced Institute of Information Technology](https://www.aiit.org.cn/) closely. 
+Previously, I worked as a **Software Development Engineer** at the [Big Data Architecture Department of Bilibili, Real-time Computing Team](https://ir.bilibili.com/) in Shanghai. My work focused on **cloud computing**, **real-time computing**, **unified streaming and batch processing**, and **storage-compute separation**.
 
+I graduated with a **bachelor’s degree in Mathematics** from the [School of Mathematics](https://www.math.sdu.edu.cn/) at **Shandong University (山东大学数学学院)**, where I was advised by **[Yuming Xv (许玉铭)](https://www.math.sdu.edu.cn/info/1084/3603.htm)**. During this time, I also collaborated with **Yun Jiang (蒋云)**, **Ye Qie (邱耶)**, and **Mengqiao Sun (孙梦桥)** from the [Zhejiang Peking University Advanced Institute of Information Technology](https://www.aiit.org.cn/).
+
+My current goals are to advance research in LLMs while bridging the gap between theoretical innovation and practical application.
 ### 🔥 Academic Work in Progress
 
 I am currently researching the integration of real-time and batch processing, Serverless Computing, as well as cloud-native computing construction at the Big Data Architecture Department of Bilibili Inc. in Shanghai, China. My work involves optimizing computing engines and algorithms to achieve efficient resource consumption in large-scale computing clusters. My recent focus is on optimizing Flink's capabilities of real-time and batch processing and designing an intelligent cross-architecture batch task migration management system. If you are seeking any form of **academic cooperation**, please feel free to email me at <alexhu1999@outlook.com>.
